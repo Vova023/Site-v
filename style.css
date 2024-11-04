@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #1a1a1a;
+    padding-top: 36px;
+    padding-bottom: 200px;
+}
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
