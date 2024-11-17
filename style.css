@@ -213,3 +213,9 @@
     justify-content: space-between;
     margin-bottom: 60px;
 }
+.card-big {
+    width: 540px;
+}
+.card-small{
+    width: 360px;
+}
