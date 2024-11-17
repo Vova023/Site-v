@@ -219,3 +219,15 @@
 .card-small{
     width: 360px;
 }
+.img-container {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 360px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.img-card-1 {background-image: url(/img/card-1.png);}
