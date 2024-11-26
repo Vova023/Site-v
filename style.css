@@ -161,14 +161,6 @@
     margin-bottom: 4px;
     text-align: center;
 }
-.about-subtitle {
-    font-size: 13px;
-    color: #8c8c8c;
-    font-weight: bold;
-    letter-spacing: 1.5px;
-    text-align: center;
-    display: block;
-}
 .audio-holder {
     width: 540px;
 }
@@ -230,7 +222,7 @@
     padding-bottom: 20px;
     padding-left: 20px;
 }
-.img-card-1 {background-image: url(/img/card-1.png);}
+.img-card-1 {background-image: url(/img/Spiderman2.jpg);}
 .btn-time {
     background-color: #fff;
     border-radius: 5px;
@@ -249,13 +241,6 @@
     align-items: center;
     justify-content: space-evenly;
 }
-.course-category {
-    font-size: 13px;
-    letter-spacing: 2px;
-    color: #bababa;
-    font-weight: 400;
-    margin: 18px 0;
-}
 .course-title {
     font-size: 35px;
     font-weight: bold;
@@ -270,7 +255,7 @@
     line-height: 1.7;
     letter-spacing: 0.5px;
 }
-.img-card-2 {background-image: url(/img/card-2.png);}
+.img-card-2 {background-image: url(/img/Spider-Man_-_Into_the_Spider-Verse.jpg);}
 .footer {
     background-color: #f5f5f5;
     padding: 60px 0;
